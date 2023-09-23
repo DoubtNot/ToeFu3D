@@ -2,9 +2,14 @@
 ZBrush/
 
 RenderedImageSequences/ToeFuGhost/
+<<<<<<< HEAD
 
 *.xml
 
 *.mcx
 
 *.mp4
+=======
+
+*.spp
+>>>>>>> master
